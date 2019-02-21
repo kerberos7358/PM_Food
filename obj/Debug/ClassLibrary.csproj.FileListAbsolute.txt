@@ -1,0 +1,12 @@
+C:\Users\user\Source\Repos\PM\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\user\Source\Repos\PM\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\user\Source\Repos\PM\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\PM\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\PM\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\user\Source\Repos\PM\ClassLibrary\obj\Debug\ClassLibrary.pdb
+H:\Desktop\Project\PM\ClassLibrary\bin\Debug\ClassLibrary.dll
+H:\Desktop\Project\PM\ClassLibrary\bin\Debug\ClassLibrary.pdb
+H:\Desktop\Project\PM\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+H:\Desktop\Project\PM\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+H:\Desktop\Project\PM\ClassLibrary\obj\Debug\ClassLibrary.dll
+H:\Desktop\Project\PM\ClassLibrary\obj\Debug\ClassLibrary.pdb
