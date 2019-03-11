@@ -16,3 +16,9 @@ C:\Users\YE\Desktop\Project Staff\ClassLibrary\obj\Debug\ClassLibrary.csprojAsse
 C:\Users\YE\Desktop\Project Staff\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\YE\Desktop\Project Staff\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\YE\Desktop\Project Staff\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\YE\Desktop\staff collection\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\YE\Desktop\staff collection\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\YE\Desktop\staff collection\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\YE\Desktop\staff collection\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\YE\Desktop\staff collection\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\YE\Desktop\staff collection\ClassLibrary\obj\Debug\ClassLibrary.pdb
