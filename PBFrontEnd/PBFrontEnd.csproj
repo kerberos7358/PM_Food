@@ -68,10 +68,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\PM.mdf" />
-    <Content Include="App_Data\PM_log.ldf">
-      <DependentUpon>PM.mdf</DependentUpon>
-    </Content>
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="ProjectBank.css" />
