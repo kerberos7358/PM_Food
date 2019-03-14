@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-  public class clsSupplierCollection
+    public class clsSupplierCollection
     {
         //private data member that stores the count of records found
         private Int32 mRecordCount;
