@@ -454,7 +454,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -529,7 +529,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -545,7 +545,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -575,7 +575,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -650,7 +650,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -666,7 +666,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -696,7 +696,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -771,7 +771,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -787,7 +787,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -863,7 +863,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -935,7 +935,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1010,7 +1010,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1026,7 +1026,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1056,7 +1056,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1131,7 +1131,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1147,7 +1147,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1177,7 +1177,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1252,7 +1252,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1268,7 +1268,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1298,7 +1298,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1373,7 +1373,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1389,7 +1389,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1419,7 +1419,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1494,7 +1494,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1510,7 +1510,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1540,7 +1540,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1615,7 +1615,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
@@ -1631,7 +1631,7 @@ namespace RestaurantTesting
             //invoke the method
             Error = AStaff.Valid(FirstName, Surname, Sex, DOB, Address1, Address2, Address3, PostCode, Email, Phone);
             //test to see that the result is correct
-            Assert.AreEqual(Error, "");
+            Assert.AreNotEqual(Error, "");
         }
 
         [TestMethod]
